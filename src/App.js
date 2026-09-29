@@ -617,7 +617,7 @@ function App() {
                   Passionate about translating UI designs into responsive, scalable code.
                 </h3>
                 <p>
-                  As a <strong>B.Sc. Computer Science graduate</strong>, I bring together solid 
+                  As a <strong>B.Sc. Computer Science graduate</strong>,and pursuing Msc.Information technology ,I bring together solid 
                   fundamentals in programming, data structures, and responsive web design. My primary 
                   interest lies in frontend engineering — building user interfaces that are not only 
                   visually captivating but also intuitive, accessible, and performant.
